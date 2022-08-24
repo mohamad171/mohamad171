@@ -4,6 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Developer;Django+Back-end+Developer;Android+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">I am a Senior django devloper</h4>
+<h4 align="center">I am a Sofware Engineer</h4>
+<h6>:: Python :: 3.5</h6>
 <br>
 
