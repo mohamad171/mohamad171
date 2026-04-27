@@ -5,6 +5,6 @@
 </p>
 <hr/>
 <h4 align="center">I am a Sofware Engineer</h4>
-<h6>Python - Django | Dart - Flutter</h6>
+<h6>Python - Django | Golang - Echo</h6>
 <br>
 
